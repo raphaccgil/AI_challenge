@@ -1,4 +1,5 @@
 # AI_challenge
 
-Criação do treinamento do modelo conforme os dados enviados
-Ai challenge
+Training model according data received from TOTVS AI challenge
+
+Please verify TOTVS challenge.ipynb to check the results
